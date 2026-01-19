@@ -1,0 +1,5 @@
+{
+  "name": "Revit BIM Data Generator",
+  "description": "An application that interprets natural language descriptions of architectural spaces and converts them into a structured JSON object for use in Autodesk Revit via Python scripting.",
+  "requestFramePermissions": []
+}
